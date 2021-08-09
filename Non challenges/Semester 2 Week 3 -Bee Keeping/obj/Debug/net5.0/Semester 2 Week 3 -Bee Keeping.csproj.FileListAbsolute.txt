@@ -1,0 +1,16 @@
+C:\Users\Ibrahim\OneDrive - Swinburne University\Cert IV IT 2021\Service Layer Programming\Non challenges\Semester 2 Week 3 -Bee Keeping\bin\Debug\net5.0\Semester 2 Week 3 -Bee Keeping.exe
+C:\Users\Ibrahim\OneDrive - Swinburne University\Cert IV IT 2021\Service Layer Programming\Non challenges\Semester 2 Week 3 -Bee Keeping\bin\Debug\net5.0\Semester 2 Week 3 -Bee Keeping.deps.json
+C:\Users\Ibrahim\OneDrive - Swinburne University\Cert IV IT 2021\Service Layer Programming\Non challenges\Semester 2 Week 3 -Bee Keeping\bin\Debug\net5.0\Semester 2 Week 3 -Bee Keeping.runtimeconfig.json
+C:\Users\Ibrahim\OneDrive - Swinburne University\Cert IV IT 2021\Service Layer Programming\Non challenges\Semester 2 Week 3 -Bee Keeping\bin\Debug\net5.0\Semester 2 Week 3 -Bee Keeping.runtimeconfig.dev.json
+C:\Users\Ibrahim\OneDrive - Swinburne University\Cert IV IT 2021\Service Layer Programming\Non challenges\Semester 2 Week 3 -Bee Keeping\bin\Debug\net5.0\Semester 2 Week 3 -Bee Keeping.dll
+C:\Users\Ibrahim\OneDrive - Swinburne University\Cert IV IT 2021\Service Layer Programming\Non challenges\Semester 2 Week 3 -Bee Keeping\bin\Debug\net5.0\ref\Semester 2 Week 3 -Bee Keeping.dll
+C:\Users\Ibrahim\OneDrive - Swinburne University\Cert IV IT 2021\Service Layer Programming\Non challenges\Semester 2 Week 3 -Bee Keeping\bin\Debug\net5.0\Semester 2 Week 3 -Bee Keeping.pdb
+C:\Users\Ibrahim\OneDrive - Swinburne University\Cert IV IT 2021\Service Layer Programming\Non challenges\Semester 2 Week 3 -Bee Keeping\obj\Debug\net5.0\Semester 2 Week 3 -Bee Keeping.csprojAssemblyReference.cache
+C:\Users\Ibrahim\OneDrive - Swinburne University\Cert IV IT 2021\Service Layer Programming\Non challenges\Semester 2 Week 3 -Bee Keeping\obj\Debug\net5.0\Semester 2 Week 3 -Bee Keeping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ibrahim\OneDrive - Swinburne University\Cert IV IT 2021\Service Layer Programming\Non challenges\Semester 2 Week 3 -Bee Keeping\obj\Debug\net5.0\Semester 2 Week 3 -Bee Keeping.AssemblyInfoInputs.cache
+C:\Users\Ibrahim\OneDrive - Swinburne University\Cert IV IT 2021\Service Layer Programming\Non challenges\Semester 2 Week 3 -Bee Keeping\obj\Debug\net5.0\Semester 2 Week 3 -Bee Keeping.AssemblyInfo.cs
+C:\Users\Ibrahim\OneDrive - Swinburne University\Cert IV IT 2021\Service Layer Programming\Non challenges\Semester 2 Week 3 -Bee Keeping\obj\Debug\net5.0\Semester 2 Week 3 -Bee Keeping.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahim\OneDrive - Swinburne University\Cert IV IT 2021\Service Layer Programming\Non challenges\Semester 2 Week 3 -Bee Keeping\obj\Debug\net5.0\Semester 2 Week 3 -Bee Keeping.dll
+C:\Users\Ibrahim\OneDrive - Swinburne University\Cert IV IT 2021\Service Layer Programming\Non challenges\Semester 2 Week 3 -Bee Keeping\obj\Debug\net5.0\ref\Semester 2 Week 3 -Bee Keeping.dll
+C:\Users\Ibrahim\OneDrive - Swinburne University\Cert IV IT 2021\Service Layer Programming\Non challenges\Semester 2 Week 3 -Bee Keeping\obj\Debug\net5.0\Semester 2 Week 3 -Bee Keeping.pdb
+C:\Users\Ibrahim\OneDrive - Swinburne University\Cert IV IT 2021\Service Layer Programming\Non challenges\Semester 2 Week 3 -Bee Keeping\obj\Debug\net5.0\Semester 2 Week 3 -Bee Keeping.genruntimeconfig.cache
