@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ibrahim\\OneDrive - Swinburne University\\Cert IV IT 2021\\Service Layer Programming\\Non challenges\\Semester 2 Week 3 - Exception handling task\\Exception handling task.csproj",
-      "projectName": "Exception handling task",
-      "projectPath": "C:\\Users\\Ibrahim\\OneDrive - Swinburne University\\Cert IV IT 2021\\Service Layer Programming\\Non challenges\\Semester 2 Week 3 - Exception handling task\\Exception handling task.csproj",
+      "projectUniqueName": "C:\\Users\\Ibrahim\\OneDrive - Swinburne University\\Cert IV IT 2021\\Service Layer Programming\\Non challenges\\Semester 2 Week 3 -Bee Keeping\\Semester 2 Week 3 -Bee Keeping.csproj",
+      "projectName": "Semester 2 Week 3 -Bee Keeping",
+      "projectPath": "C:\\Users\\Ibrahim\\OneDrive - Swinburne University\\Cert IV IT 2021\\Service Layer Programming\\Non challenges\\Semester 2 Week 3 -Bee Keeping\\Semester 2 Week 3 -Bee Keeping.csproj",
       "packagesPath": "C:\\Users\\Ibrahim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ibrahim\\OneDrive - Swinburne University\\Cert IV IT 2021\\Service Layer Programming\\Non challenges\\Semester 2 Week 3 - Exception handling task\\obj\\",
+      "outputPath": "C:\\Users\\Ibrahim\\OneDrive - Swinburne University\\Cert IV IT 2021\\Service Layer Programming\\Non challenges\\Semester 2 Week 3 -Bee Keeping\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ibrahim\\AppData\\Roaming\\NuGet\\NuGet.Config"

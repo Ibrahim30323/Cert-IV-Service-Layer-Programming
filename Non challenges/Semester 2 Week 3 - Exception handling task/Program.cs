@@ -39,7 +39,7 @@ namespace Exception_handling_task
                                     byte secondMinutesEntered = Convert.ToByte(Console.ReadLine()); 
                                    if (secondMinutesEntered == 15) {
                                     Console.Write("Type last number of minutes person stayed: ");
-                                   int lastMinutesEntered = Convert.ToInt32(Console.ReadLine()); 
+                                    int lastMinutesEntered = Convert.ToInt32(Console.ReadLine()); 
                                    if (lastMinutesEntered == 300) {
                                             Console.WriteLine("Well done, all correct!");
                                    } else {
@@ -91,7 +91,7 @@ namespace Exception_handling_task
 
              Console.WriteLine("If you see this message, it means that the application has not been terminated");
              Console.ReadLine();
-             Console.WriteLine("Now press any key to terminate the program");    
+             Console.WriteLine("Now press enter to terminate the program");    
              Console.ReadLine();   
         }        
     }
