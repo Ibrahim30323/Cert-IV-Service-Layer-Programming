@@ -6,7 +6,7 @@ namespace Semester_2_Week_3__Bee_Keeping
     {
         static void Main(string[] args)
         {
-          Console.WriteLine("Hello World");
+          
         }
 
         
